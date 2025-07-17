@@ -53,10 +53,7 @@ landingpage/
 ## ✨ Learning Goals
 
 - Practice building from scratch with HTML & CSS
-- Apply responsive design principles
-- Enhance accessibility and user experience
 - Experiment with modern CSS layouts and effects
-
 ---
 
 ## 👩‍💻 Author
