@@ -20,6 +20,7 @@ body {
 .c1content > img {
     width: 80em;
     height: 300px;
+    border-radius: 6px;
 }
 .c > h1 {
     font-weight: 900;
