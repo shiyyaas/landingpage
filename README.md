@@ -12,22 +12,9 @@ This project is part of my learning journey to improve front-end development ski
 - Customer testimonial/quote section
 - Footer with copyright
 
-## Project Structure
-
-├── index.html # Main HTML file
-├── style.css # Styling with custom CSS
-├── Images/ # Image assets (placeholders used in this project)
-├── LICENSE # Project license
-
-## How to Use
-
-1. Clone or download this repository.
-2. Open `index.html` in your browser to view the landing page.
-3. No additional setup is required.
-
 ## Screenshots
 
-*(Add screenshots of the landing page here)*
+![Landing Page Screenshot](Images/preview.png)
 
 ## Learning Purpose
 
