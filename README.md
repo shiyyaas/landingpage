@@ -14,7 +14,7 @@ This project is part of my learning journey to improve front-end development ski
 
 ## Screenshots
 
-![Landing Page Screenshot](Images/preview.png)
+![Landing Page Screenshot](Images/preview.PNG)
 
 ## Learning Purpose
 
