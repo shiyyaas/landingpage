@@ -17,7 +17,7 @@ It serves as both a personal learning journey and a showcase of best practices i
 
 ## 📸 Preview
 
-![Landing Page Screenshot](preview.png)
+![Landing Page Screenshot](preview.PNG)
 
 ---
 
